@@ -1,9 +1,5 @@
-#include <iostream>
+#include "ONP_CONV.h"
 #include <vector>
-#include <stack>
-#include <unordered_map>
-
-using namespace std;
 
 string conv_from_ONP(string eq)
 {
