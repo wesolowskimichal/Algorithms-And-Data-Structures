@@ -52,6 +52,10 @@ T Queue<T>::back() const {
 }
 
 template<typename T>
+<<<<<<< HEAD
 bool Queue<T>::empty() const{
+=======
+bool Queue<T>::empty() const {
+>>>>>>> dev
 	return arr.empty();
 }
