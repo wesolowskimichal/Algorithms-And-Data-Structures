@@ -12,6 +12,6 @@ public:
 	T pop();
 	T front() const;
 	T back() const;
-	bool empty();
+	bool empty() const;
 };
 
